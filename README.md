@@ -17,6 +17,8 @@ A fully functional C# ASP.NET App where user can register using his/her name,ema
 - Visual Studio 2022
 ## Screenshots
 
-![1 (2)](https://github.com/ansarynaim/CRUD_ASP_APP_STORED_PROCEDURE/assets/42023583/28cd57f9-3655-453c-897c-0c3e951a1e28)
-![2 (2)](https://github.com/ansarynaim/CRUD_ASP_APP_STORED_PROCEDURE/assets/42023583/dffd3874-84e5-45ea-b692-2669ceff2e35)
-![3 (2)](https://github.com/ansarynaim/CRUD_ASP_APP_STORED_PROCEDURE/assets/42023583/38995005-146c-444c-bd49-86995a2249a9)
+![p1](https://github.com/user-attachments/assets/3bd4efd8-9810-4060-b9e5-33ca9e76e826)
+![p2](https://github.com/user-attachments/assets/fe82200d-c8bd-4ccc-a8cd-64f703a860dc)
+![p3](https://github.com/user-attachments/assets/57c84d28-1ab1-42af-a9ee-514cbd75fd24)
+![p4](https://github.com/user-attachments/assets/d66d3250-5c60-416f-b3f4-b623b6c35944)
+
